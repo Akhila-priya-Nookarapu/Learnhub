@@ -114,15 +114,4 @@ npm test
 
 ---
 
-## 🤝 Contributing
-
-Contributions are highly appreciated!
-Please fork this repository, make changes, and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the *MIT License*.
-
 

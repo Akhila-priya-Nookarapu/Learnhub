@@ -105,11 +105,6 @@ npm test
 * Minor responsiveness issues on older browsers.
 * Payment gateway integration pending.
 
----
-
-## 🔗 Resources
-
-📁 Drive: [Documentation](https://docs.google.com/document/d/1G0jhletip1Qj-KqgYEqn3NvJEWSpNMHS/edit?usp=drive_link&ouid=107147593229132584701&rtpof=true&sd=true)
 
 
 

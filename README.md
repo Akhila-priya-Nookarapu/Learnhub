@@ -9,11 +9,17 @@ An intuitive and flexible *Online Learning Platform (OLP)* designed to enhance s
 🎓 Student & Instructor Login
 
 📚 Browse & Enroll in Courses
+
 📄 Upload and Manage Course Materials (for instructors)
+
 📝 Quizzes and Assignments
+
 📈 Progress Tracking for Learners
+
 📬 Email Notifications for Enrollment & Completion
+
 💬 Discussion Forums for Each Course
+
 📱 Fully Responsive UI (Mobile & Web)
 
 ---
@@ -21,9 +27,13 @@ An intuitive and flexible *Online Learning Platform (OLP)* designed to enhance s
 ## 🛠 Tech Stack
 
 *Frontend:* HTML, CSS, JavaScript / React
+
 *Backend:* Node.js / Express / Django / Flask
+
 *Database:* MongoDB / MySQL / PostgreSQL
+
 *Authentication:* JWT / Firebase / OAuth
+
 *Deployment:* Vercel / Netlify / Heroku / Render
 
 ---
@@ -83,10 +93,15 @@ npm test
 ## 📌 Future Enhancements
 
 ✅ Certificate Generation After Course Completion
+
 📆 Live Class Scheduling & Calendar Sync
+
 🎥 Video Upload and Streaming Optimization
+
 🛒 Premium Subscription Plans
+
 🌐 Multi-Language Support
+
 📱 Mobile App Version
 
 ---
@@ -110,9 +125,4 @@ Please fork this repository, make changes, and submit a pull request.
 
 This project is licensed under the *MIT License*.
 
----
 
-## 🔗 Resources
-
-📁 Drive: [Google Drive Project Files](https://drive.google.com/drive/folders/your-drive-link)
-🌐 Live Demo: [YouTube Demo](https://youtu.be/your-demo-link)

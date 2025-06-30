@@ -38,7 +38,7 @@ An intuitive and flexible *Online Learning Platform (OLP)* designed to enhance s
 
 ---
 
-## 📸 Screenshots
+## Content
 
 * Home Page
 * Course Catalog

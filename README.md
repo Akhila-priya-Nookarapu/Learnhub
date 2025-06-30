@@ -50,13 +50,6 @@ An intuitive and flexible *Online Learning Platform (OLP)* designed to enhance s
 
 ## ⚙ Installation & Setup
 
-### Clone the repository:
-
-bash
-git clone https://github.com/your-username/learnhub-online-learning-platform.git
-cd learnhub-online-learning-platform
-
-
 ### Install dependencies:
 
 bash

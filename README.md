@@ -7,6 +7,7 @@ An intuitive and flexible *Online Learning Platform (OLP)* designed to enhance s
 ## 🚀 Features
 
 🎓 Student & Instructor Login
+
 📚 Browse & Enroll in Courses
 📄 Upload and Manage Course Materials (for instructors)
 📝 Quizzes and Assignments
